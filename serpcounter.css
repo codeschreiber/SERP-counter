@@ -16,11 +16,13 @@
 }
 
 /* Fix indented results not showing numbers */
+#search > div > div > div > div > div,
 .jtfYYd,
 .kWxLod {
     overflow: inherit !important;
     contain: inherit!important;
 }
+ 
 
 @keyframes fadeIn {
     from {
