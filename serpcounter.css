@@ -16,6 +16,7 @@
 }
 
 /* Fix indented results not showing numbers */
+#rso > div > div > div > div,
 #rso > div > div > div > div > div > div,
 #search > div > div > div > div > div,
 .jtfYYd,
